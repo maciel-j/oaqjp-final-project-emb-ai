@@ -1,0 +1,15 @@
+    1  git clone https://github.com/maciel-j/oaqjp-final-project-emb-ai.git final_project
+    2  cd final_project/
+    3  tree
+    4  ls -alh
+    5  python3.11 -m pip install requests
+    6  python3.11
+    7  clear
+    8  python3.11
+    9  git add .
+   10  git commit -m "module emotion_detection 2024.09.26"
+   11  git config --global user.email "jose.s.maciel@outlook.com"
+   12  git config --global user.name "maciel-j"
+   13  git commit -m "module emotion_detection 2024.09.26"
+   14  git push
+   15  history >> history.txt
