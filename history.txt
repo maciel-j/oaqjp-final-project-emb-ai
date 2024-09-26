@@ -67,3 +67,40 @@
    28  clear
    29  python3.11
    30  history >> history.txt
+    1  git clone https://github.com/maciel-j/oaqjp-final-project-emb-ai.git final_project
+    2  cd final_project/
+    3  tree
+    4  ls -alh
+    5  python3.11 -m pip install requests
+    6  python3.11
+    7  clear
+    8  python3.11
+    9  git add .
+   10  git commit -m "module emotion_detection 2024.09.26"
+   11  git config --global user.email "jose.s.maciel@outlook.com"
+   12  git config --global user.name "maciel-j"
+   13  git commit -m "module emotion_detection 2024.09.26"
+   14  git push
+   15  history >> history.txt
+   16  git add .
+   17  git commit -m "history.txt 2024.09.26"
+   18  git push
+   19  clear
+   20  python3.11
+   21  git add .
+   22  git commit -m "module emotion_detection 2024.09.26"
+   23  git push
+   24  history >> history.txt
+   25  git add .
+   26  git commit -m "history.txt 2024.09.26"
+   27  git push
+   28  clear
+   29  python3.11
+   30  history >> history.txt
+   31  git add .
+   32  git commit -m "module emotion_detection 2024.09.26"
+   33  git push
+   34  clear
+   35  python3.11 test_emotion_detection.py
+   36  python3.11 test_emotion_detection.py >> test_emotion_detection.txt
+   37  history >> history.txt
