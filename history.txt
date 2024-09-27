@@ -146,3 +146,27 @@
    40  git push
    41  python3.11 server.py 
    42  history >> history.txt
+    1  cd ..
+    2  pylint server.py
+    3  pip install pylint
+    4  pylint server.py
+    5  clear
+    6  pylint server.py
+    7  clear
+    8  pylint server.py >> server-py.txt
+    9  clear
+   10  pylint server.py
+   11  pylint server.py >> server-py.txt
+   12  clear
+   13  pylint server.py
+   14  clear
+   15  pylint server.py
+   16  clear
+   17  pylint server.py
+   18  clear
+   19  git config --global user.email "jose.s.maciel@outlook.com"
+   20  git config --global user.name "maciel-j"
+   21  git add .
+   22  git commit -m "Emotion detection 2024.09.27"
+   23  git push
+   24  history >> history.txt
